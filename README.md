@@ -1,7 +1,7 @@
 # fig-jam-with-brie
 Bash scripts to manage figures in LaTeX documents
 
-###eb_ghostscript
+### eb_ghostscript
 - run with the input PDF as the first and only parameter
 - outputs a (probably) compressed one at the necessary resolution for printing
 
